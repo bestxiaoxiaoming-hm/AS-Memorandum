@@ -4,7 +4,7 @@
 
 Android Studio 环境下，备忘录（简单）的实现，功能有：添加,单个查询，删除全部内容，并可获取当前时间存储在SqlLite中。所用到的显示控件为 ScrollView,EditText,TextView,ImageButton. 
 
-## Acticity_main.xml代码展示
+## Acticity_main.xml代码展示--
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
